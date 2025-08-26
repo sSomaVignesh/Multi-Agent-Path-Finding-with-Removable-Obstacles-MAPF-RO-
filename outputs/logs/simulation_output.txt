@@ -1,0 +1,89 @@
+Simulation (Obstacle Density 5%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.99
+Path Optimization: 0.99
+Sandbag Utilization: 0.00
+Pits Filled: 0
+Effectiveness Score: 0.66
+Global Cost: 287.00
+
+Simulation (Obstacle Density 10%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.98
+Path Optimization: 0.98
+Sandbag Utilization: 0.00
+Pits Filled: 0
+Effectiveness Score: 0.65
+Global Cost: 299.00
+
+Simulation (Obstacle Density 15%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.96
+Path Optimization: 0.96
+Sandbag Utilization: 0.00
+Pits Filled: 0
+Effectiveness Score: 0.64
+Global Cost: 317.00
+
+Simulation (Obstacle Density 20%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.94
+Path Optimization: 0.97
+Sandbag Utilization: 0.00
+Pits Filled: 0
+Effectiveness Score: 0.63
+Global Cost: 317.00
+
+Simulation (Obstacle Density 25%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.98
+Path Optimization: 0.98
+Sandbag Utilization: 0.00
+Pits Filled: 0
+Effectiveness Score: 0.65
+Global Cost: 382.00
+
+Simulation (Obstacle Density 30%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.83
+Path Optimization: 0.91
+Sandbag Utilization: 0.00
+Pits Filled: 0
+Effectiveness Score: 0.57
+Global Cost: 310.50
+
+Simulation (Obstacle Density 35%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.89
+Path Optimization: 0.92
+Sandbag Utilization: 0.01
+Pits Filled: 1
+Effectiveness Score: 0.60
+Global Cost: 335.00
+
+Simulation (Obstacle Density 40%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.79
+Path Optimization: 0.94
+Sandbag Utilization: 0.03
+Pits Filled: 3
+Effectiveness Score: 0.58
+Global Cost: 376.50
+
+Simulation (Obstacle Density 45%):
+Agents Reaching Goal: 14/15
+Energy Efficiency: 0.75
+Path Optimization: 0.93
+Sandbag Utilization: 0.02
+Pits Filled: 2
+Effectiveness Score: 0.56
+Global Cost: 441.50
+
+Simulation (Obstacle Density 50%):
+Agents Reaching Goal: 15/15
+Energy Efficiency: 0.65
+Path Optimization: 0.81
+Sandbag Utilization: 0.01
+Pits Filled: 1
+Effectiveness Score: 0.48
+Global Cost: 329.17
